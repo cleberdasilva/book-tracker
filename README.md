@@ -60,7 +60,8 @@
    
 5. Access the GraphQL Playground: 
     Open your browser and navigate to http://localhost:4000/graphql to interact with the API.
-    📖 Usage
+
+   📖 Usage
     The application provides a GraphQL API to manage your book records. Below are some example queries and mutations:
         Add a Book
         mutation {
